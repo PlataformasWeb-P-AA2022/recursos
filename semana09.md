@@ -12,4 +12,4 @@ height="480px"
 />
 
 ---
-Having trouble with Pages? Check out our [documentation](https://github.com/PlataformasWeb-P-AA2022/recursos) or [contact support](https://twitter/reroes) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://github.com/PlataformasWeb-P-AA2022/recursos) or [contact support with René Elizalde](https://twitter/reroes) and we’ll help you sort it out.
