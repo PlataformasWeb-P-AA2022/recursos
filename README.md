@@ -6,10 +6,10 @@
 
 | Recurso | Enlace | Asignatura |
 | --- | --- | --- |
-| *Semana 07* | [enlace](https://plataformasweb-p-aa2022.github.io/recursos/semana07)| **Desarrollo Basado en Plataformas Web** |
-| *Semana 08* | [enlace](https://plataformasweb-p-aa2022.github.io/recursos/semana08)| **Desarrollo Basado en Plataformas Web** |
-| *Semana 09* | [enlace](https://plataformasweb-p-aa2022.github.io/recursos/semana09)| **Desarrollo Basado en Plataformas Web** |
-| *Semana 11* | [enlace](https://plataformasweb-p-aa2022.github.io/recursos/semana1)| **Desarrollo Basado en Plataformas Web** |
+| *Semana 07* | [enlace](https://plataformasweb-p-aa2022.github.io/recursos/semana07)| **Ejemplo de uso de SqlAlchemy - One to Many** |
+| *Semana 08* | [enlace](https://plataformasweb-p-aa2022.github.io/recursos/semana08)| **La guía definitiva de Django: Desarrolla aplicaciones web de forma rápida y sencilla** |
+| *Semana 09* | [enlace](https://plataformasweb-p-aa2022.github.io/recursos/semana09)| **Desarrollo de aplicaciones usando frameworks de ambiente web** |
+| *Semana 11* | [enlace](https://plataformasweb-p-aa2022.github.io/recursos/semana11)| **Desarrollo de aplicaciones mediante el framework Django** |
 | --- | --- | --- |
 
 ---
