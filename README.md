@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/PlataformasWeb-P-AA2022/re
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<embed src="https://plataformasweb-p-aa2022.github.io/recursos/pdfs/semana09.pdf" type="application/pdf" />
+<embed src="https://plataformasweb-p-aa2022.github.io/recursos/pdfs/semana09.pdf" type="application/pdf" width="100%" height="100%"/>
 
 
 ### Markdown
